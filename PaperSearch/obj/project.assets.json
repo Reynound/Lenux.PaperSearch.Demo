@@ -4655,11 +4655,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leinuo/Desktop/workspace/Lnet/PaperSearch/PaperSearch/PaperSearch.csproj",
+      "projectUniqueName": "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/PaperSearch.csproj",
       "projectName": "PaperSearch",
-      "projectPath": "/Users/leinuo/Desktop/workspace/Lnet/PaperSearch/PaperSearch/PaperSearch.csproj",
+      "projectPath": "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/PaperSearch.csproj",
       "packagesPath": "/Users/leinuo/.nuget/packages/",
-      "outputPath": "/Users/leinuo/Desktop/workspace/Lnet/PaperSearch/PaperSearch/obj/",
+      "outputPath": "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leinuo/.nuget/NuGet/NuGet.Config"

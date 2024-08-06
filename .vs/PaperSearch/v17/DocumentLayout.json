@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\",
+  "WorkspaceRootPath": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|c:\\users\\jjp\\desktop\\workspace\\papersearch\\papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\papersearch\\exportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|c:\\users\\jjp\\desktop\\workspace\\lenux.papersearch.demo\\papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\papersearch\\exportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\exportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\papersearch\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\papersearch\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9D4C7489-1AEB-495A-802E-112A6E390E88}|PaperSearch\\PaperSearch.csproj|solutionrelative:papersearch\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,38 +34,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 142,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form2.cs",
-              "RelativeDocumentMoniker": "PaperSearch\\Form2.cs",
-              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form2.cs",
-              "RelativeToolTip": "PaperSearch\\Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T14:30:40.803Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form2.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form2.cs",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form2.cs",
               "RelativeDocumentMoniker": "PaperSearch\\Form2.cs",
-              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form2.cs [\u8BBE\u8BA1]",
+              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form2.cs",
+              "RelativeToolTip": "PaperSearch\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:30:40.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form2.cs",
+              "RelativeDocumentMoniker": "PaperSearch\\Form2.cs",
+              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form2.cs [\u8BBE\u8BA1]",
               "RelativeToolTip": "PaperSearch\\Form2.cs [\u8BBE\u8BA1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T14:28:51.308Z"
+              "WhenOpened": "2024-08-05T14:28:51.308Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ExportDto.cs",
-              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\ExportDto.cs",
+              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\ExportDto.cs",
               "RelativeDocumentMoniker": "PaperSearch\\ExportDto.cs",
-              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\ExportDto.cs",
+              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\ExportDto.cs",
               "RelativeToolTip": "PaperSearch\\ExportDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form1.cs",
               "RelativeDocumentMoniker": "PaperSearch\\Form1.cs",
-              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form1.cs [Design]",
               "RelativeToolTip": "PaperSearch\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T07:56:47.587Z",
@@ -87,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "PaperSearch\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form1.Designer.cs",
               "RelativeToolTip": "PaperSearch\\Form1.Designer.cs",
               "ViewState": "AQIAABMAAAAAAAAAAABQwBYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form1.cs",
               "RelativeDocumentMoniker": "PaperSearch\\Form1.cs",
-              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\PaperSearch\\PaperSearch\\Form1.cs",
+              "ToolTip": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\Form1.cs",
               "RelativeToolTip": "PaperSearch\\Form1.cs",
-              "ViewState": "AQIAAD0AAAAAHzMzMzMPwBABAAAAAAAA",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAcwBABAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-05T07:12:57.498Z",
               "EditorCaption": ""

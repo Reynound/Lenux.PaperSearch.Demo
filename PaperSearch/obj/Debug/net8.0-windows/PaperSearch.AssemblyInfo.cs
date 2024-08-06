@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaperSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc4b3d32d935c022bc4a494a08111b78429acb99")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaperSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaperSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
