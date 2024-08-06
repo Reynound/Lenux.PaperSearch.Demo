@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/PaperSearch.csproj": {}
+    "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\PaperSearch.csproj": {}
   },
   "projects": {
-    "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/PaperSearch.csproj": {
+    "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\PaperSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/PaperSearch.csproj",
+        "projectUniqueName": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\PaperSearch.csproj",
         "projectName": "PaperSearch",
-        "projectPath": "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/PaperSearch.csproj",
-        "packagesPath": "/Users/leinuo/.nuget/packages/",
-        "outputPath": "/Volumes/[C] Windows 11 (1).hidden/Users/jjp/Desktop/workspace/Lenux.PaperSearch.Demo/PaperSearch/obj/",
+        "projectPath": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\PaperSearch.csproj",
+        "packagesPath": "C:\\Users\\jjp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jjp\\Desktop\\workspace\\Lenux.PaperSearch.Demo\\PaperSearch\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
         "configFilePaths": [
-          "/Users/leinuo/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jjp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
           "http://wspj.lemihy.cn:9081/repository/nuget-hosted/": {},
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -33,6 +40,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -67,11 +79,11 @@
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "Microsoft.WindowsDesktop.App": {
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
