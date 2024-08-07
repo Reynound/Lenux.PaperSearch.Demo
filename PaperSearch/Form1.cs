@@ -133,7 +133,6 @@ namespace PaperSearch
                     {
 
                         PdfDocument pdfDoc = new PdfDocument(new PdfReader(fileName.Value));
-                        StringBuilder text = new StringBuilder();
                         bool matched = false;
                         var matchCount = 0;
 
